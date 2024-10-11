@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="logo" src="assets/logoh.png" width="250">
+<img alt="logo" src="assets/logo.png" width="250">
 </p>
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-MIT">
