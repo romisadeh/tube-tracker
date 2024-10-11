@@ -7,9 +7,12 @@
  <img alt="last commit" src=https://img.shields.io/github/last-commit/romisadeh/tube-tracker>
 
 </p>
-# TubeTracker
+<h1 align="center">TubeTracker</h1>
 
-**TubeTracker** is a project that extracts YouTube channel data from my account using the YouTube API to monitor changes in views, subscribers, and overall video performance. The script collects daily metrics for each channel over a two-week period and visualizes the results using Power BI.
+<p align="center">
+  TubeTracker is a project that extracts YouTube channel data from my account using the YouTube API to monitor changes in views, subscribers, and overall video performance.
+  The script collects daily metrics for each channel over a two-week period and visualizes the results using Power BI.
+</p>
 
 ## Key Insights:
 - **Daily New Views**: Track the change in views for each channel on a daily basis.
