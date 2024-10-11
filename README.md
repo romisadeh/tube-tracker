@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="logo" src="assets/tube-tracker.webp" width="350">
+<img alt="logo" src="assets/tube-tracker.png" width="350">
 </p>
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-MIT">
