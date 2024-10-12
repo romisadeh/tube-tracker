@@ -24,5 +24,5 @@
 This project enables a clear understanding of how each channel is performing over time, providing data-driven insights for further evaluation.
 
 ## TubeTracker BI dashboard:
-<img alt="youtube_data-1" src="assets/youtube_data- 1.png" width="750">
+<img alt="youtube_data-1" src="assets/youtube_data-1.png" width="750">
 <img alt="youtube_data-2" src="assets/youtube_data-2.png" width="750">
