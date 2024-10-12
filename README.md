@@ -12,7 +12,8 @@
 
 <p align="center">
   TubeTracker is a project that extracts YouTube channel data from my account using the YouTube API to monitor changes in views, subscribers, and overall video performance.
-  The script collects daily metrics for each channel over a two-week period and visualizes the results using Power BI.
+  The script collects daily metrics for each channel over a two-week period and visualizes the results using Power BI. [![Download Power BI Dashboard](https://img.shields.io/badge/Download-Power--BI--Dashboard-blue?style=for-the-badge&logo=Power-BI)](https://github.com/romisadeh/tube-tracker/raw/main/assets/youtube_data.pbix)
+
 </p>
 
 ## Key Insights:
@@ -24,5 +25,6 @@
 This project enables a clear understanding of how each channel is performing over time, providing data-driven insights for further evaluation.
 
 ## TubeTracker BI dashboard:
+Power BI dashboard visualizing the data extracted from youtube api 
 <img alt="youtube_data-1" src="assets/youtube_data-1.png" width="750">
 <img alt="youtube_data-2" src="assets/youtube_data-2.png" width="750">
