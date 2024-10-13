@@ -32,5 +32,5 @@ This project enables a clear understanding of how each channel is performing ove
 
 ## TubeTracker BI dashboard:
 Power BI dashboard visualizing the data extracted from youtube api 
-<img alt="youtube_data-1" src="assets/youtube_data-1.png" width="750">
+<img alt="youtube_data-1" src="assets/youtube_data1.png" width="750">
 <img alt="youtube_data-2" src="assets/youtube_data-2.png" width="750">
