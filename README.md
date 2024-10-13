@@ -15,6 +15,13 @@
   The script collects daily metrics for each channel over a two-week period and visualizes the results using Power BI.
 </p>
 
+<p align="center">
+  <a href="https://github.com/romisadeh/tube-tracker/blob/main/assets/youtube_data.pbix" download>Download Dashboard</a>
+</p>
+
+
+
+
 ## Key Insights:
 - **Daily New Views**: Track the change in views for each channel on a daily basis.
 - **Daily New Subscribers**: Monitor subscriber growth, broken down by channel.
@@ -24,4 +31,6 @@
 This project enables a clear understanding of how each channel is performing over time, providing data-driven insights for further evaluation.
 
 ## TubeTracker BI dashboard:
-
+Power BI dashboard visualizing the data extracted from youtube api 
+<img alt="youtube_data-1" src="assets/youtube_data-1.png" width="750">
+<img alt="youtube_data-2" src="assets/youtube_data-2.png" width="750">
