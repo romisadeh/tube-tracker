@@ -8,6 +8,7 @@ import pandas as pd
 from datetime import date
 
 def read_cred():
+    #reading from a .txt file that contains scopes and client secret from google for developers
     info_file = open('youtube_data.txt', 'r')
     scope = info_file.readline().rstrip()
     cs = info_file.readline().rstrip()
