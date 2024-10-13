@@ -31,7 +31,7 @@
 This project enables a clear understanding of how each channel is performing over time, providing data-driven insights for further evaluation.
 
 ## TubeTracker BI dashboard:
-The script create a [csv file](https://github.com/romisadeh/tube-tracker/blob/main/assets/youtube_api.csv) which is connected to power bi <br>
+The script create a [csv file](https://github.com/romisadeh/tube-tracker/blob/main/assets/youtube_api.csv) that later is entered to Power BI to create a visualized dashboard <br>
 <img alt="youtube_data-1" src="assets/youtube_data1.png" width="750"> 
 <br><br>
 <img alt="youtube_data-2" src="assets/youtube_data-2.png" width="750">
