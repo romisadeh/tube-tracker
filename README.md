@@ -31,6 +31,22 @@
 This project enables a clear understanding of how each channel is performing over time, providing data-driven insights for further evaluation.
 
 ## TubeTracker BI dashboard:
-Power BI dashboard visualizing the data extracted from youtube api 
-<img alt="youtube_data-1" src="assets/youtube_data1.png" width="750">
+Power BI dashboard visualizing the data extracted from youtube api <br>
+<img alt="youtube_data-1" src="assets/youtube_data1.png" width="750"> 
+<br><br>
 <img alt="youtube_data-2" src="assets/youtube_data-2.png" width="750">
+
+## Requierments:
+-googleapiclient.discovery  <br>
+-google_auth_oauthlib.flow <br>
+-pickle <br>
+-google.auth.transport.requests <br>
+
+## Quick start:
+To run code user must first get youtube scope, client secret and client secret's JOIN file. <br>
+Enter [Google For Developers](https://developers.google.com/youtube/v3) and create app. <br>
+download JSON file and put the information into a text file name "youtube_data" in the correct order: <br>
+1. scopes <br>
+2. client secret <br>
+<p align="left">
+run the code to create a csv file with all the data <br>
